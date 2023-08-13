@@ -1,0 +1,28 @@
+.about{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction:column;
+}
+
+.about-top img{
+    height: 432px;
+    width: 420px;
+      border: 2px solid black;
+      border-radius: 350px;
+  }
+
+  .about-top{
+    text-align: center;
+    line-height: 70px;
+    font-size: large;
+  }
+
+  .about-bottom{
+    font-size: 26px;
+    background-color: aquamarine;
+    padding: 30px;
+    border-radius: 25px;
+    text-align: center;
+    line-height: 50px;
+  }
